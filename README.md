@@ -23,7 +23,7 @@ I created this project to improve my understanding of:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 - Bootstrap 5
 
 ---
